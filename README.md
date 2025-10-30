@@ -1,10 +1,10 @@
 <h1 align="center">Hola! Soy Elías <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Desarrollador Frontend y Mentor de programación desde Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en mi **portfolio y proyectos personales con Next.js y React**
-- 🌱 Estoy aprendiendo **Next.js, TailwindCSS y TypeScript**
+- 🔭 Actualmente estoy trabajando como freelance y mentor**
+- 🌱 Estoy aprendiendo **Vue3, Nuxt.js**
 - 👯 Busco colaborar en **proyectos de front-end y full-stack**
-- 📫 Cómo contactarme: **eliaslperez@gmail.com**
+- 📫 Cómo contactarme: **eg378556@gmail.com**
 - ⚡ Me gusta: **la programación, la música, jugar videojuegos y enseñar**
 
 <h3 align="center">Conectemos:</h3>
@@ -24,9 +24,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -41,13 +38,8 @@
   </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=eliaslperez&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliaslperez&theme=react&layout=compact" />
-</p>
-
 ------
 
-[Mi GitHub](https://github.com/eliaslperez)
+[Mi GitHub](https://github.com/ogurazek)
 
-Última edición: 29/10/2025
+Última edición: 30/10/2025
