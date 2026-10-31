@@ -26,8 +26,8 @@
 
 <br>
 
-<p align="end">
+<p align="center">
   <a href="https://www.linkedin.com/in/perezelias/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
   <a href="mailto:eg378556@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
 </p>
-<p align="end">¡Contactame! 🧑‍💻👍</p>
+<p align="center">¡Contactame! 🧑‍💻👍</p>
