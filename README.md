@@ -1,6 +1,6 @@
-# <p align="center">Frontend Developer</p>
+# <p align="center">Frontend Developer <img height="40" src="https://cdn3.emoji.gg/emojis/7333-parrotdance.gif"></p>
 
-### <p align="center">¡Hola! Soy Elías <img height="32" src="https://cdn3.emoji.gg/emojis/7333-parrotdance.gif"></p>
+### <p align="center">¡Hola! Soy Elías</p>
 
 <p>
   Soy desarrollador frontend en una fintech argentina que opera como PSP. Trabajo en productos financieros digitales, construidos con Next.js, TypeScript y Supabase.
