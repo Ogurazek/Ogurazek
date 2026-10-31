@@ -1,4 +1,4 @@
-# Hola! Soy Elías 🦜
+# Hola! Soy Elías <img height="40" src="https://cdn3.emoji.gg/emojis/7333-parrotdance.gif">
 
 ### Desarrollador Frontend desde Argentina
 
